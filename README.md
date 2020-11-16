@@ -1,2 +1,2 @@
 # myFirstPyWebsite
-My first Python Website Nitches!
+My first Python Website!
